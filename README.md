@@ -8,3 +8,4 @@
     - vscode の pligin を install
        - `hashicorp.terraform`
 - azure でリソースグループ `terra_test` を作成
+- `cat ~/ghq/github.com/github/gitignore/Terraform.gitignore >> .gitignore`
