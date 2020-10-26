@@ -1,0 +1,10 @@
+- チュートリアル
+    - https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code?in=terraform/azure-get-started
+- install
+    - `brew install hashicorp/tap/terraform`
+    - `brew install hashicorp/tap/terraform`
+    - `Terraform v0.13.5`
+    - `terraform -install-autocomplete`
+    - vscode の pligin を install
+       - `hashicorp.terraform`
+- azure でリソースグループ `terra_test` を作成
