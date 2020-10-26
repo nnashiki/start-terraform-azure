@@ -14,6 +14,6 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
   name     = "terra_test"
-  location = "westus2"
+  location = "japaneast"
 }
 
