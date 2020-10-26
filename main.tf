@@ -15,5 +15,8 @@ provider "azurerm" {
 resource "azurerm_resource_group" "rg" {
   name     = "terra_test"
   location = "japaneast"
+  tags = {
+    Environment = "Terraform Getting Started"
+  }
 }
 
