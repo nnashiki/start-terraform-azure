@@ -22,7 +22,7 @@
 ## 既存のインフラを後からコード化する
 - https://dev.classmethod.jp/articles/aws-with-terraform/
 
-- ex. recource group のマイニング
+- ex. recource group のマイグレーション
     - https://www.terraform.io/docs/providers/azurerm/r/resource_group.html
     - (`terraform import azurerm_resource_group.rg /subscriptions/<subscription_id>/resourceGroups/terra_test`)
 
